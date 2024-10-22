@@ -1,0 +1,1 @@
+{"name":"Local: inSortedRotarray","url":"d:\\riddhi\\CODING\\DSA IN C++\\BinarySearch\\inSortedRotarray.cpp","tests":[{"id":1723985006748,"input":"10 11\n7 8 9 10 11 12 13 3 4 5 \n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\riddhi\\CODING\\DSA IN C++\\BinarySearch\\inSortedRotarray.cpp","group":"local","local":true}
