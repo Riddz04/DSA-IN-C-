@@ -1,1 +1,0 @@
-{"name":"Local: a","url":"d:\\riddhi\\CODING\\DSA IN C++\\CFpractice\\a.cpp","tests":[{"id":1725378084359,"input":"4\n2 2\n7 2\n5 3\n1000000000 1000000000","output":"1\n5\n1\n347369930"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\riddhi\\CODING\\DSA IN C++\\CFpractice\\a.cpp","group":"local","local":true}
